@@ -1,0 +1,9 @@
+# Docker
+__pycache__/
+*.pyc
+.env
+data/
+logs/
+node_modules/
+dist/
+.git/
